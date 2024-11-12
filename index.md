@@ -1,5 +1,7 @@
 Joey Kaminsky, jkaminsky@ucsd.edu 
+
 DSC 180A B16 - Sheffield, Nolan
+\b
 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic covered in our domain is smart contracts, specifically deploying them within the context of a decentralized, anonymous marketplace. 
